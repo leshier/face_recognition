@@ -5,7 +5,7 @@ import numpy
 from PyQt5.QtGui import QImage
 from PyQt5.QtCore import QThread
 import time
-
+# 21
 
 class CameraThread(QThread,Ui_MainWindow):
 
